@@ -1,4 +1,4 @@
-# SKN05-1nd-2Team
+# SKN05-1st-2Team
 
  ✅1차 프로젝트
  SK Networks AI CAMP 5기<br>
